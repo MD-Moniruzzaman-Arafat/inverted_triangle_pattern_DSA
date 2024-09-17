@@ -1,0 +1,1 @@
+# inverted_triangle_pattern_DSA
